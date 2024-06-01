@@ -25,6 +25,7 @@ Movie genres thats fall under more than one category are more popular and more p
 
 Checking the top grossing film genre
 ![alt text](image-1.png)
+This visualization allows us to quickly identify the genres with most profitable film industry based on the data
 
 Finding the  correlation between rating and popularity
 ![alt text](image-2.png)
